@@ -1,0 +1,26 @@
+[
+    {
+      "title": "YOUTUBE FRONTENED CLONE",
+      "imageSrc": "youtube.jpeg",
+      "description": "This is a project made to learn how to fetch yotube Api.",
+      "skills":  ["React", "JavaScript"],
+      "demo": "https://youtube-lite-eta.vercel.app/",
+      "source": "https://github.com/pankaj1132/youtube_lite"
+    },
+    {
+      "title": "MOVIEFLIX",
+      "imageSrc": "movieflix.png",
+      "description": "This is a project made to learn the latest languages by building Movie reviews website through an API.",
+      "skills":  ["React", "JavaScript"],
+      "demo": "https://movieflixpankaj.netlify.app/",
+      "source": "https://github.com/pankaj1132/MovieFlix"
+    },
+    {
+      "title": "WEATHER APP",
+      "imageSrc": "weather.png",
+      "description": "This is a project made to Find weather of any location in the map.",
+      "skills": ["React", "JavaScript"],  
+      "demo": "https://pankaj1132.github.io/weather-app/",
+      "source": "https://github.com/pankaj1132/weather-app"
+    }
+  ]
